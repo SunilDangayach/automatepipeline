@@ -1,0 +1,25 @@
+spring:
+  application:
+    name: pipelineautomation
+            
+server:
+   port: 8010
+   context-path: /automation
+  
+logging:
+  level:
+    org.springframework.security: INFO
+    org.springframework.data: INFO
+    
+jenkins:
+  url: ******
+  username: *****
+  password: *****
+  base-jobs: stage-1,stage-2,stage-3
+  base-pipeline-view: pipeline-view
+git:
+  repo: *****
+  username: *****
+  password: ******
+version: 1.0.0
+

@@ -1,0 +1,47 @@
+{"properties": [
+  {
+    "name": "jenkins.url",
+    "type": "java.lang.String",
+    "description": "A description for 'jenkins.url'"
+  },
+  {
+    "name": "jenkins.username",
+    "type": "java.lang.String",
+    "description": "A description for 'jenkins.username'"
+  },
+  {
+    "name": "jenkins.password",
+    "type": "java.lang.String",
+    "description": "A description for 'jenkins.password'"
+  },
+  {
+    "name": "git.repo",
+    "type": "java.lang.String",
+    "description": "A description for 'git.repo'"
+  },
+  {
+    "name": "git.username",
+    "type": "java.lang.String",
+    "description": "A description for 'git.username'"
+  },
+  {
+    "name": "git.password",
+    "type": "java.lang.String",
+    "description": "A description for 'git.password'"
+  },
+  {
+    "name": "version",
+    "type": "java.lang.String",
+    "description": "A description for 'version'"
+  },
+  {
+    "name": "jenkins.base-jobs",
+    "type": "java.lang.String",
+    "description": "A description for 'jenkins.base-jobs'"
+  },
+  {
+    "name": "jenkins.base-pipeline-view",
+    "type": "java.lang.String",
+    "description": "A description for 'jenkins.base-pipeline-view'"
+  }
+]}
